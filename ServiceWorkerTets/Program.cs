@@ -11,6 +11,20 @@ builder.Services.AddSwaggerGen();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
+// Configure the HTTP request pipeline.
+// Configure the HTTP request pipeline.
+// Configure the HTTP request pipeline.
+// Configure the HTTP request pipeline.
+<<<<<<< Updated upstream
+// Configure the HTTP request pipeline.
+// Configure the HTTP request pipeline.
+// Configure the HTTP request pipeline.
+// Configure the HTTP request pipeline.
+// Configure the HTTP request pipeline.
+// Configure the HTTP request pipeline.
+
+=======
+>>>>>>> Stashed changes
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
